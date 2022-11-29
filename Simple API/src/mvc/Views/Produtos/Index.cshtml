@@ -1,0 +1,82 @@
+﻿@model IEnumerable<mvc.Models.ProdutoModel>
+
+@{
+
+}
+
+<head>
+    <link rel="stylesheet" href="~/css/produto.css">
+</head>
+
+<div class="container-fluid mt-50">
+
+    @*credit buttons : https://bbbootstrap.com/snippets/skew-buttons-17083405*@
+    <div class="card-block text-center">
+        <a class="btn btn-primary btn-skew" asp-action="Adicionar" asp-controller="Produtos">Cadastrar</a>
+        @*        <button class="btn btn-success btn-skew">Success Button</button>
+        <button class="btn btn-info btn-skew">Info Button</button>
+        <button class="btn btn-warning btn-skew">Warning Button</button>
+        <button class="btn btn-danger btn-skew">Danger Button</button>*@
+    </div>
+
+
+   @*//credit table : https://bbbootstrap.com/snippets/product-list-animated-icons-and-discount-badge-70756656*@
+    @if(@Model.Any())
+    { 
+        <div class="row">
+
+        @foreach (var produto in @Model)
+        {
+          
+
+                <div class="col-md-4">
+
+                    <div class="product-card mb-30">
+                        @{
+                            if(produto.Quantidade < 0 )
+                            {
+                                <div class="product-badge bg-secondary border-default text-body">Out of stock</div>
+                                    <a class="product-thumb" href="#" data-abc="true">
+                                        @if(!string.IsNullOrEmpty(@produto.Imagem))
+                                        {
+                                            <img src="~/imagens/@produto.Imagem" alt="Product">
+                                        }
+                                        else{
+                                            <img src="https://i.imgur.com/4ebj4aP.png" alt="Product">
+                                        }
+                                    </a>
+                            }else{
+                               <div class="product-badge bg-success border-default text-body">10% OFF</div>
+                                    <a class="product-thumb" href="#" data-abc="true">
+                                        @if(!string.IsNullOrEmpty(@produto.Imagem))
+                                        {
+                                            <img src="~/imagens/@produto.Imagem" alt="Product">
+                                        }
+                                        else{
+                                            <img src="https://i.imgur.com/4ebj4aP.png" alt="Product">
+                                        }
+                                    </a>
+                            }
+                        }
+                        
+                        <div class="product-card-body">
+                            <h3 class="product-title"><a href="#" data-abc="true">@produto.Nome</a></h3>
+                            <h4 class="product-price">R$ @produto.Valor</h4>
+                        </div>
+                        <div class="product-button-group">
+                            <a class="product-button btn-wishlist" asp-action="Editar" asp-controller="Produtos" asp-route-id="@produto.Id" data-abc="true"><i class="fa fa-pen"></i><span>Editar</span></a>
+                            <a class="product-button btn-compare" asp-action="Remover" asp-controller="Produtos" asp-route-id="@produto.Id" data-abc="true"><i class="fa fa-trash" style="color:red;"></i><span>Excluir</span></a>
+                            <a class="product-button" href="#" data-abc="true"><i class="fa fa-eye"></i><span>Detalhes</span></a>
+                        </div>
+                    </div>
+
+                </div>
+            
+        }
+        </div>
+    }
+    else
+    {
+       <h1>Nenheum produto cadastrado</h1>
+    }
+

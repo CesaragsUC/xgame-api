@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vUByHy1X3gl9pAsoa8ORmyS/Nvv3ZFXT1eTSiMfKSm7Bu5n/l4gVGW1mb1cRljoontbcvTA7BSx6KTqZ0jWLIw==",
+  "success": true,
+  "projectFilePath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

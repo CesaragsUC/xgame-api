@@ -1,0 +1,65 @@
+﻿@model IEnumerable<mvc.Models.CategoriaModel>
+
+@{
+
+}
+<head>
+    <link rel="stylesheet" href="~/css/categoria.css">
+</head>
+
+<div class="container">
+
+    @*credit buttons : https://bbbootstrap.com/snippets/skew-buttons-17083405*@
+    <div class="card-block text-center">
+        <a class="btn btn-primary btn-skew" asp-action="Adicionar" asp-controller="Categorias">Cadastrar</a>
+        @*<button class="btn btn-success btn-skew">Success Button</button>
+        <button class="btn btn-info btn-skew">Info Button</button>
+        <button class="btn btn-warning btn-skew">Warning Button</button>
+        <button class="btn btn-danger btn-skew">Danger Button</button>*@
+    </div>
+
+    <h2>Categorias</h2>
+
+    @*//credit table : https://bbbootstrap.com/snippets/bootstrap-5-products-table-checkbox-and-alert-64891413*@
+
+    @if (Model.Any())
+    {
+
+        <div class="table-wrap">
+            <table class="table table-responsive table-borderless">
+                <thead>
+                <th>Nome</th>
+                <th>&nbsp;</th>
+                </thead>
+                <tbody>
+                    @foreach (var categoria in Model)
+                    {
+
+                        <tr class="align-middle alert border-bottom" role="alert">
+                            <td>
+                                <div>
+                                    <p class="m-0 fw-bold">@categoria.Nome</p>
+                                </div>
+                            </td>
+                            <td>
+                                <div class="btn">
+                                    <a class="product-button" asp-action="Remover" asp-controller="Categorias" asp-route-id="@categoria.Id" data-abc="true"><i class="fa fa-times"></i></a>
+                                </div>
+                                <div class="btn">
+                                    <a class="product-button" asp-action="Editar" asp-controller="Categorias" asp-route-id="@categoria.Id" data-abc="true"><i class="fa fa-pen"></i></a>
+                                </div>
+                            </td>
+                        </tr>
+
+                    }
+                </tbody>
+            </table>
+        </div>
+
+    }
+    else
+    {
+        <h2>Nenheuma categoria encontrada.</h2>
+    }
+
+</div>

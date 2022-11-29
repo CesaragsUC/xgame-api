@@ -1,0 +1,218 @@
+﻿body {
+    background-color: #eee;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.product-card {
+    display: block;
+    position: relative;
+    width: 100%;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+.mb-30 {
+    margin-bottom: 30px !important;
+}
+
+.product-badge {
+    position: absolute;
+    height: 24px;
+    padding: 0 14px;
+    border-radius: 3px;
+    color: #fff !important;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: .025em;
+    line-height: 24px;
+    white-space: nowrap;
+    top: 12px;
+    left: 12px;
+}
+
+
+.bg-secondary {
+    background-color: #dc3545 !important;
+}
+
+.bg-success {
+    background-color: #21bd4a !important;
+}
+
+
+
+
+.product-thumb > img {
+    display: block;
+    width: 100%;
+    height: 400px;
+    padding: 14px;
+}
+
+
+.product-category {
+    width: 100%;
+    margin-bottom: 6px;
+    font-size: 12px;
+}
+
+.product-card-body {
+    padding: 18px;
+    padding-top: 15px;
+    text-align: center;
+}
+
+.product-category > a {
+    transition: color .2s;
+    color: #999;
+    text-decoration: none;
+}
+
+
+.product-title {
+    margin-bottom: 18px;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+    .product-title > a {
+        transition: color .3s;
+        color: #232323;
+        text-decoration: none;
+    }
+
+.product-price {
+    display: inline-block;
+    margin-bottom: 10px;
+    padding: 9px 15px;
+    border-radius: 4px;
+    background-color: #3ba9fc;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: center;
+}
+
+
+.product-button-group {
+    display: table;
+    width: 100%;
+    border-top: 1px solid #e5e5e5;
+    table-layout: fixed;
+}
+
+..product-button-group a:hover {
+    color: #3ba9fc;
+}
+
+
+
+
+.product-button:first-child {
+    border-bottom-left-radius: 5px;
+}
+
+
+.product-button {
+    display: table-cell;
+    position: relative;
+    height: 62px;
+    padding: 10px;
+    transition: background-color .3s;
+    border: 0;
+    border-right: 1px solid #e5e5e5;
+    background: none;
+    color: #505050;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+    text-decoration: none;
+}
+
+    .product-button:hover > span {
+        -webkit-transform: translateY(0);
+        -ms-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    .product-button > span {
+        display: block;
+        position: absolute;
+        bottom: 9px;
+        left: 0;
+        width: 100%;
+        -webkit-transform: translateY(12px);
+        -ms-transform: translateY(12px);
+        transform: translateY(12px);
+        font-size: 12px;
+        white-space: nowrap;
+        opacity: 0;
+    }
+
+    .product-button > i, .product-button > span {
+        transition: all .3s;
+    }
+
+    .product-button > i {
+        display: inline-block;
+        position: relative;
+        margin-top: 5px;
+        font-size: 18px;
+    }
+
+    .product-button:hover > i {
+        -webkit-transform: translateY(-10px);
+        -ms-transform: translateY(-10px);
+        transform: translateY(-10px);
+    }
+
+    /*//buttons style*/
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.card {
+    border-radius: 5px;
+    -webkit-box-shadow: 0 0 5px 0 rgba(43,43,43,.1), 0 11px 6px -7px rgba(43,43,43,.1);
+    box-shadow: 0 0 5px 0 rgba(43,43,43,.1), 0 11px 6px -7px rgba(43,43,43,.1);
+    border: none;
+    margin-bottom: 30px;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+    .card .card-header {
+        background-color: transparent;
+        border-bottom: none;
+        padding: 20px;
+        position: relative;
+    }
+
+    .card .card-block {
+        padding: 1.25rem;
+        margin-bottom: 100px;
+    }
+    .card-block {
+      
+        margin-bottom: 100px;
+    }
+
+.btn.btn-skew {
+    -webkit-transform: skew(-15deg);
+    transform: skew(-15deg);
+}
+
+.btn {
+    border-radius: 2px;
+    text-transform: capitalize;
+    font-size: 15px;
+    padding: 10px 19px;
+    cursor: pointer;
+    color: #fff;
+}

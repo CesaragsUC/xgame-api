@@ -1,0 +1,53 @@
+﻿@model mvc.Models.CategoriaModel
+
+
+<head>
+    <link rel="stylesheet" href="~/css/produto-cadatro.css">
+</head>
+
+@*creditos pelo form: https://bbbootstrap.com/snippets/bootstrap-5-trendy-student-registration-form-58584232*@
+<div class="wrapper rounded bg-white">
+    <form  asp-action="Adicionar">
+        <div class="h3">Cadastrar Categoria</div>
+
+        <div class="form">
+            <div class="row">
+                <div class="col-md-6 mt-md-0 mt-3">
+                    <label>Nome</label>
+                    <input type="text" asp-for="Nome" class="form-control" required>
+                </div>
+
+            </div>
+            <button type="submit" class="btn btn-primary mt-3">Salvar</button>
+        </div>
+    </form>
+</div>
+
+@section Scripts {
+
+    <script>
+        $("#ImagemUpload").change(function() {
+            $("#img_nome").text(this.files[0].name);
+            $("#img_nome")[0].style.display = 'block';
+        });
+
+        $("#ImagemUpload").attr("data-val", "true");
+        $("#ImagemUpload").attr("data-val-required", "Preencha o campo Imagem");
+
+
+        function readURL(input) {
+            if (input.files && input.files[0]) {
+                var reader = new FileReader();
+
+                reader.onload = function(e) {
+                    $("#mostra-imagem")[0].style.display = 'block';
+                    $('#mostra-imagem').attr('src', e.target.result).width(150).height(200);
+
+                };
+
+                reader.readAsDataURL(input.files[0]);
+            }
+        }
+    </script>
+
+}
