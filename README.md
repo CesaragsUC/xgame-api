@@ -1,2 +1,2 @@
 # xgame-api
-Comunicação entre front end e uma API NetCore 6
+Comunicação entre uma aplicação MVC end e uma API NetCore 6
