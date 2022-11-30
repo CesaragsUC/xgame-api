@@ -44,6 +44,8 @@ namespace mvc.Controllers
         public async Task<IActionResult> Adicionar(ProdutoModel model)
         {
 
+            var categorias = await _categoriaService.ObterTodos();
+            ViewBag.Categorias = new SelectList(categorias, "Id", "Nome");
 
             var imgPrefixo = Guid.NewGuid() + "_";
             if (!await UploadArquivo(model.ImagemUpload, imgPrefixo))
@@ -55,8 +57,8 @@ namespace mvc.Controllers
 
             var response = await _produtoServices.Adicionar(_mapper.Map<Produto>(model));
 
-            if(response.Errors.Mensagens.Any())
-                ModelState.AddModelError(string.Empty, "Falha ao cadastrar produto.");
+            if (ResponsePossuiErros(response))
+                return View(model);
 
 
             return RedirectToAction("Index");
@@ -102,8 +104,8 @@ namespace mvc.Controllers
 
             var response = await _produtoServices.Atualizar(_mapper.Map<Produto>(produtoUpdate));
 
-            if (response.Errors.Mensagens.Any())
-                ModelState.AddModelError(string.Empty, "Falha ao atualizar produto.");
+            if (ResponsePossuiErros(response))
+                return View(model);
 
 
             return RedirectToAction("Index");
@@ -122,7 +124,7 @@ namespace mvc.Controllers
 
         private async Task<bool> UploadArquivo(IFormFile arquivo, string imgPrefixo)
         {
-            if (arquivo.Length <= 0) return false;
+            if (arquivo == null || arquivo.Length <= 0) return false;
 
             var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/imagens", imgPrefixo + arquivo.FileName);
 

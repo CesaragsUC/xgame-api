@@ -21,7 +21,6 @@ namespace Infra.Mappings
                 .HasColumnType("varchar(100)");
 
             builder.Property(c => c.Imagem)
-                .IsRequired()
                 .HasColumnType("varchar(max)");
 
             //1:1

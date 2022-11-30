@@ -1,4 +1,5 @@
-﻿@model mvc.Models.ProdutoModel
+﻿@using mvc.Extentions
+@model mvc.Models.ProdutoModel
 
 
 <head>
@@ -50,7 +51,7 @@
                 <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="ImagemUpload"></label>
                 <label style="display: none" id="img_nome"></label>
 
-                <img id="mostra-imagem" style="display:none;" src="#" alt="your image" />
+                <img id="mostra-imagem" style="display:none; width: 100%;" src="#" alt="your image" />
             </div>
         </div>
         <button type="submit" class="btn btn-primary mt-3">Salvar</button>

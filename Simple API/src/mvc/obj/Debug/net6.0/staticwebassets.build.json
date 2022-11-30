@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IydfS9lVr8mMxtsHBDc4gUQXFf4USOjOpitMiG5xMGQ=",
+  "Hash": "ig/jr69y/fPg/IYcgP8Q3GdO1quhXUQH6KGryP7vNSM=",
   "Source": "mvc",
   "BasePath": "_content/mvc",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "mvc\\wwwroot",
       "Source": "mvc",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.5\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\mvc.styles.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\mvc.styles.css",
       "SourceId": "mvc",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/mvc",
       "RelativePath": "mvc.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\mvc.styles.css"
+      "OriginalItemSpec": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\bundle\\mvc.styles.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css",
       "SourceId": "mvc",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/mvc",
       "RelativePath": "mvc.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css"
+      "OriginalItemSpec": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\css\\categoria.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\categoria.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "css/categoria.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\categoria.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\css\\categoria-cadastro.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\categoria-cadastro.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "css/categoria-cadastro.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\categoria-cadastro.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\css\\produto.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\produto.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "css/produto.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\produto.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\css\\produto-cadatro.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\produto-cadatro.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "css/produto-cadatro.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\produto-cadatro.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\css\\site.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\site.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\favicon.ico",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\favicon.ico",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1173,10 +1173,180 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\imagens\\75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\01a4300d-c4b9-4bc5-8bdb-abce737015e9_cadeira-gamer-azul.webp",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/01a4300d-c4b9-4bc5-8bdb-abce737015e9_cadeira-gamer-azul.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\01a4300d-c4b9-4bc5-8bdb-abce737015e9_cadeira-gamer-azul.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\088b8e78-d85e-4b69-a5c7-138d0bad275f_Gabinete Corsair 760T branco.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/088b8e78-d85e-4b69-a5c7-138d0bad275f_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\088b8e78-d85e-4b69-a5c7-138d0bad275f_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\0eb83f24-20c4-4013-804d-d6408112ce24_Gabinete Corsair 760T branco.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/0eb83f24-20c4-4013-804d-d6408112ce24_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\0eb83f24-20c4-4013-804d-d6408112ce24_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\12a71c82-790b-4920-9078-2b615cb40fc6_xbox.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/12a71c82-790b-4920-9078-2b615cb40fc6_xbox.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\12a71c82-790b-4920-9078-2b615cb40fc6_xbox.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\4014043e-34eb-4aff-bc69-f916c9265643_cadeira-gamer-azul.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/4014043e-34eb-4aff-bc69-f916c9265643_cadeira-gamer-azul.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\4014043e-34eb-4aff-bc69-f916c9265643_cadeira-gamer-azul.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\5ace58d3-1b5e-407b-bb12-860c901c52c7_cadeira-gamer.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/5ace58d3-1b5e-407b-bb12-860c901c52c7_cadeira-gamer.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\5ace58d3-1b5e-407b-bb12-860c901c52c7_cadeira-gamer.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\5bd560a4-5846-4931-8e36-4197c3f32f95_luminaria-2.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/5bd560a4-5846-4931-8e36-4197c3f32f95_luminaria-2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\5bd560a4-5846-4931-8e36-4197c3f32f95_luminaria-2.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\64630cf3-af85-4f71-b09c-305c2195b2e1_luminaria-2.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/64630cf3-af85-4f71-b09c-305c2195b2e1_luminaria-2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\64630cf3-af85-4f71-b09c-305c2195b2e1_luminaria-2.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\6d896db3-eaa3-47d7-812b-4141f7966291_cadeira-rgb.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/6d896db3-eaa3-47d7-812b-4141f7966291_cadeira-rgb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\6d896db3-eaa3-47d7-812b-4141f7966291_cadeira-rgb.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\70f626d4-7e1a-4637-aa1f-2ceedbf1b108_Gabinete Corsair 760T branco.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/70f626d4-7e1a-4637-aa1f-2ceedbf1b108_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\70f626d4-7e1a-4637-aa1f-2ceedbf1b108_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "imagens/75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg",
       "AssetKind": "All",
@@ -1190,10 +1360,112 @@
       "OriginalItemSpec": "wwwroot\\imagens\\75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\js\\site.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\7811b733-3f67-4a09-9aa8-afb7a6d74805_Gabinete Corsair 760T branco.jpg",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/7811b733-3f67-4a09-9aa8-afb7a6d74805_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\7811b733-3f67-4a09-9aa8-afb7a6d74805_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\7f5cb13e-f601-42b5-88cb-6ddd9a41ca07_Controle PS5.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/7f5cb13e-f601-42b5-88cb-6ddd9a41ca07_Controle PS5.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\7f5cb13e-f601-42b5-88cb-6ddd9a41ca07_Controle PS5.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\dd078d31-5d86-4d5c-9899-4e4e15eb4964_cadeira-gamer.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/dd078d31-5d86-4d5c-9899-4e4e15eb4964_cadeira-gamer.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\dd078d31-5d86-4d5c-9899-4e4e15eb4964_cadeira-gamer.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\js\\site.js",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1207,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1224,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1241,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1292,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1309,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1326,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1360,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1377,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1394,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1428,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1445,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1462,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1479,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1496,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1513,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1530,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1547,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1564,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1581,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1598,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1615,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1632,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1649,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1666,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1683,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1700,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1717,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1734,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1751,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1768,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1785,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1802,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1819,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1836,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1853,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1870,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1887,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1904,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1921,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1938,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1955,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1972,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1989,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2006,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2023,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2040,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2057,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2074,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2091,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2108,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2125,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2142,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2159,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "mvc",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Projetos ASP.NET\\Video  Aulas\\Simples API\\Simple API\\src\\mvc\\wwwroot\\",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
       "BasePath": "_content/mvc",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

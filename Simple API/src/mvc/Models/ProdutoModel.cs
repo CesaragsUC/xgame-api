@@ -1,4 +1,6 @@
-﻿namespace mvc.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace mvc.Models
 {
     public class ProdutoModel
     {
@@ -13,8 +15,7 @@
         public bool Ativo { get; set; }
         public DateTime DataCadastro { get; set; }
 
-        //EF
         public Guid CategoriaId { get; set; }
-        public CategoriaModel Categoria { get; set; }
+        
     }
 }

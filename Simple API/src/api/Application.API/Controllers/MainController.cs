@@ -1,4 +1,6 @@
-﻿using Domain.Services;
+﻿using Domain.Interface;
+using Domain.Notificacoes;
+using Domain.Services;
 using FluentValidation.Results;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.ModelBinding;
@@ -6,9 +8,20 @@ using Microsoft.AspNetCore.Mvc.ModelBinding;
 namespace Application.API.Controllers
 {
     [ApiController]
-    public abstract class MainController : Controller
+    public abstract class MainController : ControllerBase
     {
-        protected ICollection<string> Erros = new List<string>();
+        private readonly INotificador _notificador;
+
+
+        protected MainController(INotificador notificador)
+        {
+            _notificador = notificador;
+        }
+
+        protected bool OperacaoValida()
+        {
+            return !_notificador.TemNotificacao();
+        }
 
         protected ActionResult CustomResponse(object result = null)
         {
@@ -19,63 +32,30 @@ namespace Application.API.Controllers
 
             return BadRequest(new ValidationProblemDetails(new Dictionary<string, string[]>
             {
-                { "Mensagens", Erros.ToArray() }
+                { "Mensagens", _notificador.ObterNotificacoes().Select(n => n.Mensagem).ToArray() }
             }));
+
         }
 
         protected ActionResult CustomResponse(ModelStateDictionary modelState)
         {
+            if (!modelState.IsValid) NotificarErroModelInvalida(modelState);
+            return CustomResponse();
+        }
+
+        protected void NotificarErroModelInvalida(ModelStateDictionary modelState)
+        {
             var erros = modelState.Values.SelectMany(e => e.Errors);
             foreach (var erro in erros)
             {
-                AdicionarErroProcessamento(erro.ErrorMessage);
+                var errorMsg = erro.Exception == null ? erro.ErrorMessage : erro.Exception.Message;
+                NotificarErro(errorMsg);
             }
-
-            return CustomResponse();
         }
 
-        protected ActionResult CustomResponse(ValidationResult validationResult)
+        protected void NotificarErro(string mensagem)
         {
-            foreach (var erro in validationResult.Errors)
-            {
-                AdicionarErroProcessamento(erro.ErrorMessage);
-            }
-
-            return CustomResponse();
-        }
-
-        protected ActionResult CustomResponse(ResponseResult resposta)
-        {
-            ResponsePossuiErros(resposta);
-
-            return CustomResponse();
-        }
-
-        protected bool ResponsePossuiErros(ResponseResult resposta)
-        {
-            if (resposta == null || !resposta.Errors.Mensagens.Any()) return false;
-
-            foreach (var mensagem in resposta.Errors.Mensagens)
-            {
-                AdicionarErroProcessamento(mensagem);
-            }
-
-            return true;
-        }
-
-        protected bool OperacaoValida()
-        {
-            return !Erros.Any();
-        }
-
-        protected void AdicionarErroProcessamento(string erro)
-        {
-            Erros.Add(erro);
-        }
-
-        protected void LimparErrosProcessamento()
-        {
-            Erros.Clear();
+            _notificador.Handle(new Notificacao(mensagem));
         }
     }
 }

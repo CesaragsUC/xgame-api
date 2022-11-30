@@ -6,7 +6,7 @@ using mvc.Services;
 
 namespace mvc.Controllers
 {
-    public class CategoriasController : Controller
+    public class CategoriasController : BaseController
     {
         private readonly ICategoriaService _categoriaService;
         private readonly IMapper _mapper;
@@ -38,8 +38,8 @@ namespace mvc.Controllers
         {
             var response = await _categoriaService.Adicionar(_mapper.Map<Categoria>(model));
 
-            if (response.Errors.Mensagens.Any())
-                ModelState.AddModelError(string.Empty, "Falha ao cadastrar categoria.");
+            if (ResponsePossuiErros(response))
+                return View(model);
 
 
             return RedirectToAction("Index");
@@ -60,8 +60,8 @@ namespace mvc.Controllers
 
             var response = await _categoriaService.Atualizar(_mapper.Map<Categoria>(categoriaUpdate));
 
-            if (response.Errors.Mensagens.Any())
-                ModelState.AddModelError(string.Empty, "Falha ao editar categoria.");
+            if (ResponsePossuiErros(response))
+                return View(model);
 
 
             return RedirectToAction("Index");

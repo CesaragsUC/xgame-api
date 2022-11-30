@@ -19,7 +19,8 @@ namespace Application.API.Controllers
         public ProdutoController(
             IProdutoRepository produtoRepository,
             IProdutoService produtoService,
-            IMapper mapper)
+            IMapper mapper,
+            INotificador notificador) : base(notificador)
         {
             _produtoRepository = produtoRepository;
             _produtoService = produtoService;
@@ -34,12 +35,12 @@ namespace Application.API.Controllers
             {
                 var result = await _produtoRepository.ObterProdutos();
                 var produtos = _mapper.Map<IEnumerable<ProdutoDTO>>(result);
-                return Ok(produtos);
+                return CustomResponse(produtos);
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro.");
+                return CustomResponse("Ocorreu um erro.");
             }
         }
 
@@ -53,7 +54,7 @@ namespace Application.API.Controllers
             {
                 var result = await _produtoRepository.ObterProdutoPorId(id);
                 var produto = _mapper.Map<ProdutoDTO>(result);
-                return Ok(produto);
+                return CustomResponse(produto);
             }
             catch (Exception ex)
             {
@@ -71,12 +72,12 @@ namespace Application.API.Controllers
             try
             {
                 await _produtoService.Adicionar(produto);
-                return Ok("Produto criado com sucesso!");
+                return CustomResponse();
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao criar o produto.");
+                return CustomResponse("Ocorreu um erro ao criar o produto.");
             }
 
         }
@@ -96,12 +97,12 @@ namespace Application.API.Controllers
             try
             {
                 await _produtoService.Atualizar(produto);
-                return Ok("Produto atualizado com sucesso!");
+                return CustomResponse();
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao atualizado o produto.");
+                return CustomResponse("Ocorreu um erro ao atualizar o produto.");
             }
 
         }
@@ -115,12 +116,12 @@ namespace Application.API.Controllers
             try
             {
                 await _produtoRepository.Remover(id);
-                return Ok("Produto excluido com sucesso!");
+                return CustomResponse("Produto excluido com sucesso!");
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao excluir o produto.");
+                return CustomResponse("Ocorreu um erro ao excluir o produto.");
             }
         }
     }

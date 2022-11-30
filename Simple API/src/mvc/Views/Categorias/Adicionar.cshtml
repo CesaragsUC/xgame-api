@@ -1,4 +1,5 @@
-﻿@model mvc.Models.CategoriaModel
+﻿@using mvc.Extentions
+@model mvc.Models.CategoriaModel
 
 
 <head>
@@ -9,7 +10,7 @@
 <div class="wrapper rounded bg-white">
     <form  asp-action="Adicionar">
         <div class="h3">Cadastrar Categoria</div>
-
+         <vc:Summary></vc:Summary>
         <div class="form">
             <div class="row">
                 <div class="col-md-6 mt-md-0 mt-3">

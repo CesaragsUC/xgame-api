@@ -1,4 +1,4 @@
-﻿@if (ViewData.ModelState.ErrorCount > 0)
+﻿@if (ViewContext.ViewData.ModelState.ErrorCount > 0)
 {
     <div style="padding-top: 15px;"></div>
 
@@ -8,6 +8,8 @@
         <div style="padding-top: 20px" asp-validation-summary="All" class="text-danger"></div>
     </div>
 }
+
+
 
 @{
     if (TempData["Erros"] is IEnumerable<string> mensagensErro && mensagensErro.Any())

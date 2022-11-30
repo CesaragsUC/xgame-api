@@ -1,4 +1,5 @@
-﻿@model mvc.Models.ProdutoModel
+﻿@using mvc.Extentions
+@model mvc.Models.ProdutoModel
 
 
 <head>
@@ -9,7 +10,7 @@
 <div class="wrapper rounded bg-white">
 
     <div class="h3">Editar Produto</div>
-
+        <vc:Summary></vc:Summary>
        <form enctype="multipart/form-data" method="post" asp-action="Editar">
 
         <div class="row">
@@ -50,7 +51,7 @@
                 <label data-browse="Procurar" style="width: 400px" class="custom-file-label" for="ImagemUpload"></label>
                 <label style="display: none" id="img_nome"></label>
 
-                <img id="mostra-imagem"  src="~/imagens/@Model.Imagem" alt="your image" />
+                <img id="mostra-imagem" style="width: 100%;" src="~/imagens/@Model.Imagem" alt="your image" />
             </div>
         </div>
 

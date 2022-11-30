@@ -1,6 +1,7 @@
 using Application.API.Interface;
 using Application.API.Services;
 using Domain.Interface;
+using Domain.Notificacoes;
 using Infra;
 using Infra.Repository;
 using Microsoft.EntityFrameworkCore;
@@ -28,6 +29,7 @@ builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
 builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 builder.Services.AddScoped<IProdutoService, ProdutoService>();
+builder.Services.AddScoped<INotificador, Notificador>();
 
 
 var app = builder.Build();

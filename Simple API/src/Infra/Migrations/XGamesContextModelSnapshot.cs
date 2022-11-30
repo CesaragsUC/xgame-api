@@ -61,7 +61,7 @@ namespace Infra.Migrations
 
                     b.Property<string>("Nome")
                         .IsRequired()
-                        .HasColumnType("varchar(50)");
+                        .HasColumnType("varchar(100)");
 
                     b.Property<int>("Quantidade")
                         .HasColumnType("int");

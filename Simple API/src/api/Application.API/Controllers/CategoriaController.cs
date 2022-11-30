@@ -20,7 +20,8 @@ namespace Application.API.Controllers
         public CategoriaController(
             ICategoriaRepository categoriaRepository,
             ICategoriaService categoriaService,
-            IMapper mapper)
+            IMapper mapper,
+            INotificador notificador) : base(notificador)
         {
   
             _categoriaRepository = categoriaRepository;
@@ -55,12 +56,12 @@ namespace Application.API.Controllers
             {
                 var result = await _categoriaRepository.ObterCategoriaPorId(id);
                 var categoria = _mapper.Map<CategoriaDTO>(result);
-                return Ok(categoria);
+                return CustomResponse(categoria);
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro.");
+                return CustomResponse("Ocorreu um erro.");
             }
         }
 
@@ -73,12 +74,12 @@ namespace Application.API.Controllers
             try
             {
                 await _categoriaService.Adicionar(categoria);
-                return Ok("Categoria criada com sucesso!");
+                return CustomResponse();
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao criar o Categoria.");
+                return CustomResponse();
             }
 
         }
@@ -93,12 +94,12 @@ namespace Application.API.Controllers
             try
             {
                 await _categoriaService.Atualizar(categoria);
-                return Ok("Categoria atualizada com sucesso!");
+                return CustomResponse();
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao atualizado a Categoria.");
+                return CustomResponse("Ocorreu um erro ao atualizado a Categoria.");
             }
 
         }
@@ -112,12 +113,12 @@ namespace Application.API.Controllers
             try
             {
                 await _categoriaRepository.Remover(id);
-                return Ok("Categoria excluida com sucesso!");
+                return CustomResponse("Categoria excluida com sucesso!");
             }
             catch (Exception ex)
             {
 
-                return BadRequest("Ocorreu um erro ao excluir a Categoria.");
+                return CustomResponse("Ocorreu um erro ao excluir a Categoria.");
             }
         }
     }
