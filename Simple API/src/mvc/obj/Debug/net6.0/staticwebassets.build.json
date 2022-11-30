@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ig/jr69y/fPg/IYcgP8Q3GdO1quhXUQH6KGryP7vNSM=",
+  "Hash": "XoVvfuEZAmlwDNP2N0YWyLtIXPp8BTIfEp7BS5QMTkM=",
   "Source": "mvc",
   "BasePath": "_content/mvc",
   "Mode": "Default",
@@ -1409,6 +1409,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\b11f6d93-e925-45fd-abc0-13d290f20eee_cadeira-gamer.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/b11f6d93-e925-45fd-abc0-13d290f20eee_cadeira-gamer.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\b11f6d93-e925-45fd-abc0-13d290f20eee_cadeira-gamer.webp"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\c3fc5913-21a7-4769-bb5d-344f913d3520_cadeira-gamer.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/c3fc5913-21a7-4769-bb5d-344f913d3520_cadeira-gamer.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\c3fc5913-21a7-4769-bb5d-344f913d3520_cadeira-gamer.webp"
     },
     {
       "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp",
