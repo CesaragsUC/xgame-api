@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "src\Domain\Domain
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infra", "src\Infra\Infra.csproj", "{F43F0C7E-DA4B-42BA-914F-D031E093DE66}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mvc", "src\mvc\mvc.csproj", "{E595F8EE-0AE6-438A-B3BD-1533531D7269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mvc", "src\mvc\mvc.csproj", "{E595F8EE-0AE6-438A-B3BD-1533531D7269}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{ADE6AC2E-4510-4DD1-8DDD-C4EE1CACA26C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApi.Test", "SimpleApi.Test\SimpleApi.Test.csproj", "{C097C145-CCD3-41AF-8938-89A2D73CE64C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,9 +37,16 @@ Global
 		{E595F8EE-0AE6-438A-B3BD-1533531D7269}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E595F8EE-0AE6-438A-B3BD-1533531D7269}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E595F8EE-0AE6-438A-B3BD-1533531D7269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C097C145-CCD3-41AF-8938-89A2D73CE64C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C097C145-CCD3-41AF-8938-89A2D73CE64C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C097C145-CCD3-41AF-8938-89A2D73CE64C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C097C145-CCD3-41AF-8938-89A2D73CE64C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C097C145-CCD3-41AF-8938-89A2D73CE64C} = {ADE6AC2E-4510-4DD1-8DDD-C4EE1CACA26C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {0794AD46-BB25-4399-B885-024F6336701F}

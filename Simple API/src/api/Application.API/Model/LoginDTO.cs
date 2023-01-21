@@ -1,0 +1,9 @@
+﻿namespace Application.API.Model
+{
+    public class LoginDTO
+    {
+        public string Email { get; set; }
+
+        public string Senha { get; set; }
+    }
+}

@@ -1,5 +1,4 @@
 ﻿using Domain.Entidade;
-using Domain.Entidade.Validacao;
 using Domain.Interface;
 using Domain.Services;
 using Microsoft.Extensions.Options;

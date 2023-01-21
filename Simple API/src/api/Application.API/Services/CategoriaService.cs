@@ -1,6 +1,5 @@
 ﻿using Application.API.Interface;
 using Domain.Entidade;
-using Domain.Entidade.Validacao;
 using Domain.Interface;
 
 namespace Application.API.Services

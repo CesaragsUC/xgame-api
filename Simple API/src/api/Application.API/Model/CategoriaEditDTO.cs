@@ -1,7 +1,11 @@
-﻿namespace Application.API.Model.DTO
+﻿
+namespace Application.API.Model.DTO
 {
-    public class CategoriaAddDTO
+    public class CategoriaEditDTO
     {
+        public Guid Id { get; set; }
         public string Nome { get; set; }
+
     }
 }
+
