@@ -1,16 +1,7 @@
-
-using Domain.Entidade;
-using Domain.Interface;
-using Infra;
-using Infra.Repository;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.VisualStudio.TestPlatform.TestHost;
-using Moq;
+using Core.Test.Config;
 using Moq.AutoMock;
-using SimpleApi.Test.Config;
-using SimpleApi.Test.Interface;
 
-namespace SimpleApi.Test
+namespace Core.Test
 {
 
     [Collection(nameof(IntegrationApiTestsFixture))]

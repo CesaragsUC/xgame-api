@@ -1,12 +1,6 @@
-
-using Domain.Entidade;
 using Domain.Interface;
-using Infra;
-using Infra.Repository;
-using Microsoft.EntityFrameworkCore;
 using Moq;
 using Moq.AutoMock;
-using SimpleApi.Test.Interface;
 using SimpleApi.Test.Services;
 
 namespace SimpleApi.Test
