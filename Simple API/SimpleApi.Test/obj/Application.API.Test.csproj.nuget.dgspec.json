@@ -164,12 +164,6 @@
               },
               "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\Application.API\\Application.API.csproj": {
                 "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\Application.API\\Application.API.csproj"
-              },
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
-              },
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj"
               }
             }
           }
@@ -187,6 +181,14 @@
             "Bogus": {
               "target": "Package",
               "version": "[28.0.3, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.10, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.10, )"
             },
             "Microsoft.AspNetCore.Hosting": {
               "target": "Package",
@@ -327,6 +329,10 @@
               "version": "[6.0.11, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.11, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
               "version": "[6.0.11, )"
             },

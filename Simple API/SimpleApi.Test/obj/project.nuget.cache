@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ziP90ux6TYklM94NqCtqhX4v7T3zpyEns45vJUS5SqeM/oAG4fXTZ7JKBL/91E+0Bz+Xh75ni6qa+/ddUZYb1A==",
+  "dgSpecHash": "dVakkzgkLGy4vCcE6RWAetE0hUph+lpf8C9sXIqKpwutr/f3WS5d2rwJOkDPuQ6JG2dgoN/MG9GXnXosROXLQQ==",
   "success": true,
   "projectFilePath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\SimpleApi.Test\\Application.API.Test.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.http.extensions\\2.2.0\\microsoft.aspnetcore.http.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.11\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.11.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.11\\microsoft.aspnetcore.identity.ui.6.0.11.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.mvc.testing\\6.0.11\\microsoft.aspnetcore.mvc.testing.6.0.11.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.staticfiles\\2.2.0\\microsoft.aspnetcore.staticfiles.2.2.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.aspnetcore.testhost\\6.0.11\\microsoft.aspnetcore.testhost.6.0.11.nupkg.sha512",
@@ -51,6 +52,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.dependencymodel\\6.0.0\\microsoft.extensions.dependencymodel.6.0.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\6.0.0\\microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.fileproviders.embedded\\6.0.11\\microsoft.extensions.fileproviders.embedded.6.0.11.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\6.0.0\\microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\microsoft.extensions.hosting\\6.0.1\\microsoft.extensions.hosting.6.0.1.nupkg.sha512",

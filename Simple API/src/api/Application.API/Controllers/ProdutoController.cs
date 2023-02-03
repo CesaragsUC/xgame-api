@@ -67,10 +67,10 @@ namespace Application.API.Controllers
         [Route("novo-produto")]
         public async Task<IActionResult> Add(ProdutoAddDTO model)
         {
-            var produto = _mapper.Map<Produto>(model);
-
+            
             try
             {
+                var produto = _mapper.Map<Produto>(model);
                 await _produtoService.Adicionar(produto);
                 return CustomResponse();
             }

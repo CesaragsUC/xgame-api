@@ -1,3 +1,4 @@
+using Application.API.Data;
 using Application.API.Interface;
 using Application.API.Model;
 using Application.API.Services;
@@ -6,7 +7,9 @@ using Domain.Notificacoes;
 using Infra;
 using Infra.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 using Microsoft.IdentityModel.Tokens;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -29,6 +32,15 @@ builder.Services.AddSwaggerGen();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
+
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+builder.Services.AddDefaultIdentity<IdentityUser>()
+    .AddRoles<IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    //.AddErrorDescriber<IdentityMensagensPortugues>()
+    .AddDefaultTokenProviders();
 
 // JWT
 
@@ -82,6 +94,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

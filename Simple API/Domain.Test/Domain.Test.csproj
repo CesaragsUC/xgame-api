@@ -28,4 +28,9 @@
 		</PackageReference>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\src\api\Application.API\Application.API.csproj" />
+	  <ProjectReference Include="..\src\Domain\Domain.csproj" />
+	</ItemGroup>
+
 </Project>
