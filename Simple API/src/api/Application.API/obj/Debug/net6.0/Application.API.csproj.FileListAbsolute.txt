@@ -158,3 +158,8 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Applicati
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\obj\Debug\net6.0\Application.API.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\obj\Debug\net6.0\Application.API.genruntimeconfig.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\obj\Debug\net6.0\ref\Application.API.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\bin\Debug\net6.0\MediatR.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\bin\Debug\net6.0\EasyNetQ.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\bin\Debug\net6.0\Polly.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\api\Application.API\bin\Debug\net6.0\RabbitMQ.Client.dll

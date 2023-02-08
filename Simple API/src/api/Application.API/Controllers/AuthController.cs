@@ -1,11 +1,15 @@
-﻿using Application.API.Model;
+﻿using Application.API.Messages;
+using Application.API.Messages.Integracao;
+using Application.API.Model;
 using Domain.Interface;
+using FluentValidation.Results;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
+using pplication.API.MessageBus;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
@@ -13,23 +17,57 @@ using System.Text;
 namespace Application.API.Controllers
 {
     [ApiController]
+    [Route("api/Identidade")]
     public class AuthController : MainController
     {
 
         private readonly SignInManager<IdentityUser> _signInManager;
         private readonly UserManager<IdentityUser> _userManager;
         private readonly AppSettings _appSettings;
-
+        private readonly IMessageBus _bus;
         public AuthController(IHttpContextAccessor httpContextAccessor,
                                   SignInManager<IdentityUser> signInManager,
                                   UserManager<IdentityUser> userManager,
                                     INotificador notificador,
-                                     IOptions<AppSettings> appSettings) : base(notificador)
+                                     IOptions<AppSettings> appSettings,
+                                     IMessageBus bus) : base(notificador)
         {
             _signInManager = signInManager;
             _userManager = userManager;
             _appSettings = appSettings.Value;
+            _bus = bus;
         }
+
+        //Nao tem tela, usar via  Postmam
+        [HttpPost("nova-conta")]
+        public async Task<ActionResult> Registrar(UsuarioRegistro usuarioRegistro)
+        {
+            if (!ModelState.IsValid) return CustomResponse(ModelState);
+
+            var user = new IdentityUser
+            {
+                UserName = usuarioRegistro.Email,
+                Email = usuarioRegistro.Email,
+                EmailConfirmed = true
+            };
+            var result = await _userManager.CreateAsync(user, usuarioRegistro.Senha);
+
+            if (result.Succeeded)
+            {
+                var clienteResult = await RegistrarCliente(usuarioRegistro);
+
+                if (!clienteResult.ValidationResult.IsValid)
+                {
+                    await _userManager.DeleteAsync(user);
+                    return CustomResponse(clienteResult.ValidationResult);
+                }
+
+                return CustomResponse(await GerarJwt(usuarioRegistro.Email));
+            }
+
+            return CustomResponse();
+        }
+
 
         [AllowAnonymous]
         [HttpPost("api/login")]
@@ -70,6 +108,23 @@ namespace Application.API.Controllers
 
             var tokenResult = tokenHandler.WriteToken(token);
             return tokenResult;
+        }
+
+        private async Task<ResponseMessage> RegistrarCliente(UsuarioRegistro usuarioRegistro)
+        {
+            var usuario = await _userManager.FindByEmailAsync(usuarioRegistro.Email);
+            var usuarioRegistrado = new UsuarioRegistradoIntegrationEvent(
+                                    Guid.Parse(usuario.Id), usuarioRegistro.Nome, usuarioRegistro.Email, usuarioRegistro.Cpf);
+
+            try
+            {
+                return await _bus.RequestAsync<UsuarioRegistradoIntegrationEvent, ResponseMessage>(usuarioRegistrado);
+            }
+            catch (Exception ex)
+            {
+                await _userManager.DeleteAsync(usuario);
+                throw;
+            }
         }
     }
 }

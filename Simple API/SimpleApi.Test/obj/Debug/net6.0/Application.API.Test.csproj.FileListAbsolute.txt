@@ -2,10 +2,6 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bi
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\testhost.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.deps.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.runtimeconfig.json
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.deps.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.runtimeconfig.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.Development.json
@@ -17,6 +13,10 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bi
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.deps.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.runtimeconfig.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.dll
@@ -455,10 +455,12 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bi
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.pdb
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.AssemblyReference.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.GeneratedMSBuildEditorConfig.editorconfig
@@ -471,5 +473,7 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\ob
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.genruntimeconfig.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\ref\Application.API.Test.dll
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
-F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\MediatR.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\EasyNetQ.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Polly.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\RabbitMQ.Client.dll

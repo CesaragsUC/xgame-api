@@ -46,12 +46,12 @@ namespace Application.API.Test.Integration.Categoria
 
         [Fact(DisplayName = "Editar Categoria com sucesso")]
         [Trait("Categoria", "Integration API - Categoria")]
-        public async Task Cadastrar_Categoria_ComSucesso_DeveRetornar_Ok()
+        public async Task Editar_Categoria_ComSucesso_DeveRetornar_Ok()
         {
             //Arrange
             var model = new CategoriaEditDTO
             {
-                Id = Guid.Parse("c4cf1d37-b5a1-4b1c-b01c-cbf6f68b69e7"),
+                Id = Guid.Parse("e031fd85-6498-4093-bd37-5000916c9ac5"),
                 Nome = "Placas de video",
 
             };
@@ -63,14 +63,14 @@ namespace Application.API.Test.Integration.Categoria
             Xunit.Assert.True(TratarErrosResponse(response));
         }
 
-        [Fact(DisplayName = "Cadastrar Categoria Invalido")]
+        [Fact(DisplayName = "Editar Categoria Invalida")]
         [Trait("Categoria", "Integration API - Categoria")]
         public async Task Cadastrar_Categoria_Invalido_DeveRetornarErro()
         {
             //Arrange
             var model = new CategoriaEditDTO
             {
-                Id = Guid.Parse("c4cf1d37-b5a1-4b1c-b01c-cbf6f68b69e7"),
+                Id = Guid.Parse("e031fd85-6498-4093-bd37-5000916c9ac5"),
                 Nome = string.Empty,
 
             };

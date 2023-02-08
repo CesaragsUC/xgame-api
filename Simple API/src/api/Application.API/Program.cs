@@ -1,3 +1,4 @@
+using Application.API.Config;
 using Application.API.Data;
 using Application.API.Interface;
 using Application.API.Model;
@@ -42,6 +43,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>()
     //.AddErrorDescriber<IdentityMensagensPortugues>()
     .AddDefaultTokenProviders();
 
+builder.Services.AddMessageBusConfiguration(builder.Configuration);
+
 // JWT
 
 var appSettingsSection = builder.Configuration.GetSection("AppSettings");
@@ -79,6 +82,7 @@ builder.Services.AddScoped<XGamesContext>();
 builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
 builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
 builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IProdutoService, ProdutoService>();
 builder.Services.AddScoped<INotificador, Notificador>();
 

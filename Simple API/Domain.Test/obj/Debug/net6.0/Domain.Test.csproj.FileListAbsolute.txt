@@ -469,3 +469,7 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\obj\D
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\obj\Debug\net6.0\Domain.Test.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\obj\Debug\net6.0\Domain.Test.genruntimeconfig.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\obj\Debug\net6.0\ref\Domain.Test.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\bin\Debug\net6.0\MediatR.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\bin\Debug\net6.0\EasyNetQ.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\bin\Debug\net6.0\Polly.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\Domain.Test\bin\Debug\net6.0\RabbitMQ.Client.dll

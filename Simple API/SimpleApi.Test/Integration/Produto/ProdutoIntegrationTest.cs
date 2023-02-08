@@ -12,7 +12,7 @@ namespace Application.API.Test.Integration.Produto
     {
         private readonly IntegrationApiTestsFixture<Program> _fixture;
         private readonly AutoMocker _mocker;
-
+        private Guid _produtoId;
         public ProdutoIntegrationTest(IntegrationApiTestsFixture<Program> fixture)
         {
             _mocker = new AutoMocker();
@@ -92,7 +92,7 @@ namespace Application.API.Test.Integration.Produto
             //Arrange
             var model = new ProdutoEditDTO
             {
-                Id = Guid.Parse("c3481e67-71e8-47a4-bea1-8a3fbd11f5ad"),
+                Id = Guid.Parse("7128d054-e473-4dd7-8d80-7af73323a2b4"),
                 Ativo = true,
                 CategoriaId = Guid.Parse("b35f3d4e-bd31-45e9-8615-b0974f599411"),
                 Imagem = string.Empty,
@@ -119,7 +119,7 @@ namespace Application.API.Test.Integration.Produto
             //Arrange
             var model = new ProdutoEditDTO
             {
-                Id = Guid.Parse("c3481e67-71e8-47a4-bea1-8a3fbd11f5ad"),
+                Id = Guid.Parse("7128d054-e473-4dd7-8d80-7af73323a2b4"),
                 Ativo = true,
                 CategoriaId = Guid.Empty,
                 Imagem = string.Empty,

@@ -1,10 +1,14 @@
 ﻿using Application.API.Interface;
+using Application.API.Messages;
+using Application.API.Messages.Integracao;
 using Application.API.Model.DTO;
 using AutoMapper;
 using Domain.Entidade;
 using Domain.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using pplication.API.MessageBus;
+using System.Drawing;
 
 namespace Application.API.Controllers
 {
@@ -15,16 +19,20 @@ namespace Application.API.Controllers
         private readonly IProdutoRepository _produtoRepository;
         private readonly IProdutoService _produtoService;
         public readonly IMapper _mapper;
+        private readonly IMessageBus _bus;
+
 
         public ProdutoController(
             IProdutoRepository produtoRepository,
             IProdutoService produtoService,
             IMapper mapper,
-            INotificador notificador) : base(notificador)
+            INotificador notificador,
+            IMessageBus bus) : base(notificador)
         {
             _produtoRepository = produtoRepository;
             _produtoService = produtoService;
             _mapper = mapper;
+            _bus = bus;
         }
 
         [HttpGet]
@@ -54,6 +62,7 @@ namespace Application.API.Controllers
             {
                 var result = await _produtoRepository.ObterProdutoPorId(id);
                 var produto = _mapper.Map<ProdutoDTO>(result);
+
                 return CustomResponse(produto);
             }
             catch (Exception ex)
@@ -67,11 +76,19 @@ namespace Application.API.Controllers
         [Route("novo-produto")]
         public async Task<IActionResult> Add(ProdutoAddDTO model)
         {
-            
+
             try
             {
+                ResponseMessage result = null;
                 var produto = _mapper.Map<Produto>(model);
                 await _produtoService.Adicionar(produto);
+                if (OperacaoValida())
+                {
+                    result =  await ProdutoRegistrado(produto);
+
+                }
+              
+
                 return CustomResponse();
             }
             catch (Exception ex)
@@ -122,6 +139,27 @@ namespace Application.API.Controllers
             {
 
                 return CustomResponse("Ocorreu um erro ao excluir o produto.");
+            }
+        }
+
+        private async Task<ResponseMessage> ProdutoRegistrado(Produto produto)
+        {
+            var result = await _produtoRepository.ObterProdutoPorId(produto.Id);
+            var model = _mapper.Map<ProdutoDTO>(result);
+
+            var produtoRegistado = new ProdutoRegistradoIntegrationEvent(model.Id, model.Nome, model.Imagem, model.Valor,
+                model.Quantidade, model.Ativo, model.CategoriaId);
+
+            try
+            {
+                
+                return  await _bus.RequestAsync<ProdutoRegistradoIntegrationEvent, ResponseMessage>(produtoRegistado);
+
+            }
+            catch (Exception ex)
+            {
+
+                throw ;
             }
         }
     }
