@@ -1,4 +1,4 @@
-# xgame-api netcore 6
+# api netcore 6
 Comunicação entre uma aplicação front-end mvc e uma API desenvolvida em NetCore 6
 
 ## O que foi abordado nesse projeto:
