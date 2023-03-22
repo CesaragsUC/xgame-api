@@ -34,7 +34,6 @@
     ".NETCoreApp,Version=v6.0": {
       "Domain.Test/1.0.0": {
         "dependencies": {
-          "Application.API": "1.0.0",
           "Bogus": "28.0.3",
           "Domain": "1.0.0",
           "MSTest.TestAdapter": "2.2.10",
@@ -48,6 +47,7 @@
           "Moq": "4.18.4",
           "Moq.AutoMock": "3.4.0",
           "coverlet.collector": "3.1.2",
+          "simple-api": "1.0.0",
           "xunit": "2.4.2",
           "xunit.runner.visualstudio": "2.4.5",
           "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions": "14.0.0.0",
@@ -2498,34 +2498,6 @@
         }
       },
       "xunit.runner.visualstudio/2.4.5": {},
-      "Application.API/1.0.0": {
-        "dependencies": {
-          "AutoMapper": "12.0.0",
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
-          "Domain": "1.0.0",
-          "EasyNetQ": "6.3.1",
-          "FluentValidation": "11.4.0",
-          "Infra": "1.0.0",
-          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.13",
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.11",
-          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.11",
-          "Microsoft.AspNetCore.Identity.UI": "6.0.11",
-          "Microsoft.AspNetCore.StaticFiles": "2.2.0",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11",
-          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
-          "Microsoft.IdentityModel.Tokens": "6.26.0",
-          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.15.1",
-          "Polly": "7.2.3",
-          "Swashbuckle.AspNetCore": "6.2.3",
-          "MediatR": "8.0.1"
-        },
-        "runtime": {
-          "Application.API.dll": {}
-        },
-        "compile": {
-          "Application.API.dll": {}
-        }
-      },
       "Domain/1.0.0": {
         "dependencies": {
           "FluentValidation": "11.4.0"
@@ -2549,6 +2521,34 @@
         },
         "compile": {
           "Infra.dll": {}
+        }
+      },
+      "simple-api/1.0.0": {
+        "dependencies": {
+          "AutoMapper": "12.0.0",
+          "AutoMapper.Extensions.Microsoft.DependencyInjection": "12.0.0",
+          "Domain": "1.0.0",
+          "EasyNetQ": "6.3.1",
+          "FluentValidation": "11.4.0",
+          "Infra": "1.0.0",
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "6.0.13",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.11",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.11",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.11",
+          "Microsoft.AspNetCore.StaticFiles": "2.2.0",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.11",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "6.0.0",
+          "Microsoft.IdentityModel.Tokens": "6.26.0",
+          "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.15.1",
+          "Polly": "7.2.3",
+          "Swashbuckle.AspNetCore": "6.2.3",
+          "MediatR": "8.0.1"
+        },
+        "runtime": {
+          "simple-api.dll": {}
+        },
+        "compile": {
+          "simple-api.dll": {}
         }
       },
       "Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions/14.0.0.0": {
@@ -5684,17 +5684,17 @@
       "path": "xunit.runner.visualstudio/2.4.5",
       "hashPath": "xunit.runner.visualstudio.2.4.5.nupkg.sha512"
     },
-    "Application.API/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "simple-api/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

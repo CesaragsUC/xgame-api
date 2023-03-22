@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "y/V3cLNFOo6i7klLEopkdOaMloZMe9cq10vWiUNeENc=",
+  "Hash": "CGVGHbFvqeoBpKuZGihqnWU8C8HqY15cql5QiGWV6VI=",
   "Source": "mvc",
   "BasePath": "_content/mvc",
   "Mode": "Default",
@@ -1851,6 +1851,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\eee2c479-0ec3-47cf-922c-63ccb0641571_xbox.webp",
+      "SourceId": "mvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\",
+      "BasePath": "_content/mvc",
+      "RelativePath": "imagens/eee2c479-0ec3-47cf-922c-63ccb0641571_xbox.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\eee2c479-0ec3-47cf-922c-63ccb0641571_xbox.webp"
     },
     {
       "Identity": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\js\\site.js",

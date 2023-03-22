@@ -6,6 +6,7 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debu
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\mvc.runtimeconfig.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\appsettings.Development.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\appsettings.Production.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\mvc.staticwebassets.runtime.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\mvc.exe
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net6.0\testhost.exe

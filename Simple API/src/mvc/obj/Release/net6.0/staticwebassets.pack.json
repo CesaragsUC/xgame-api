@@ -1,0 +1,445 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\mvc.bundle.scp.css",
+      "PackagePath": "staticwebassets\\mvc.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\categoria-cadastro.css",
+      "PackagePath": "staticwebassets\\css\\categoria-cadastro.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\categoria.css",
+      "PackagePath": "staticwebassets\\css\\categoria.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\produto-cadatro.css",
+      "PackagePath": "staticwebassets\\css\\produto-cadatro.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\produto.css",
+      "PackagePath": "staticwebassets\\css\\produto.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\01a4300d-c4b9-4bc5-8bdb-abce737015e9_cadeira-gamer-azul.webp",
+      "PackagePath": "staticwebassets\\imagens\\01a4300d-c4b9-4bc5-8bdb-abce737015e9_cadeira-gamer-azul.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\088b8e78-d85e-4b69-a5c7-138d0bad275f_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\088b8e78-d85e-4b69-a5c7-138d0bad275f_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\0a4fbd43-dfc1-4a1e-b0c4-44b3d3f4063e_Mesa Gamer.jpg",
+      "PackagePath": "staticwebassets\\imagens\\0a4fbd43-dfc1-4a1e-b0c4-44b3d3f4063e_Mesa Gamer.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\0eb83f24-20c4-4013-804d-d6408112ce24_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\0eb83f24-20c4-4013-804d-d6408112ce24_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\12a71c82-790b-4920-9078-2b615cb40fc6_xbox.webp",
+      "PackagePath": "staticwebassets\\imagens\\12a71c82-790b-4920-9078-2b615cb40fc6_xbox.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\171248d4-483e-49bc-9dfa-f787a4087b69_Luminaria.jpg",
+      "PackagePath": "staticwebassets\\imagens\\171248d4-483e-49bc-9dfa-f787a4087b69_Luminaria.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\1b3434c9-65f0-4154-ac01-ce103ed1f20b_ram-16gb.jpg",
+      "PackagePath": "staticwebassets\\imagens\\1b3434c9-65f0-4154-ac01-ce103ed1f20b_ram-16gb.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\26b63470-2ef8-4902-a0e6-f5659fa57bfa_Luminaria.jpg",
+      "PackagePath": "staticwebassets\\imagens\\26b63470-2ef8-4902-a0e6-f5659fa57bfa_Luminaria.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\29f080ef-b382-44ae-9e3f-14cafd1e4a9d_ps5.jpg",
+      "PackagePath": "staticwebassets\\imagens\\29f080ef-b382-44ae-9e3f-14cafd1e4a9d_ps5.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\300101a3-ecfb-414f-8593-5441cfa8cc0e_pilja-power.webp",
+      "PackagePath": "staticwebassets\\imagens\\300101a3-ecfb-414f-8593-5441cfa8cc0e_pilja-power.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\4014043e-34eb-4aff-bc69-f916c9265643_cadeira-gamer-azul.webp",
+      "PackagePath": "staticwebassets\\imagens\\4014043e-34eb-4aff-bc69-f916c9265643_cadeira-gamer-azul.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\4de2c7d6-68e6-44c4-8e19-7e55b845e656_Controle PS5.webp",
+      "PackagePath": "staticwebassets\\imagens\\4de2c7d6-68e6-44c4-8e19-7e55b845e656_Controle PS5.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\5ace58d3-1b5e-407b-bb12-860c901c52c7_cadeira-gamer.webp",
+      "PackagePath": "staticwebassets\\imagens\\5ace58d3-1b5e-407b-bb12-860c901c52c7_cadeira-gamer.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\5bd560a4-5846-4931-8e36-4197c3f32f95_luminaria-2.webp",
+      "PackagePath": "staticwebassets\\imagens\\5bd560a4-5846-4931-8e36-4197c3f32f95_luminaria-2.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\64630cf3-af85-4f71-b09c-305c2195b2e1_luminaria-2.webp",
+      "PackagePath": "staticwebassets\\imagens\\64630cf3-af85-4f71-b09c-305c2195b2e1_luminaria-2.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\6795c18f-614a-417a-921b-2c9ceeaa9c93_computador-gamer-02.jpg",
+      "PackagePath": "staticwebassets\\imagens\\6795c18f-614a-417a-921b-2c9ceeaa9c93_computador-gamer-02.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\6d896db3-eaa3-47d7-812b-4141f7966291_cadeira-rgb.jpg",
+      "PackagePath": "staticwebassets\\imagens\\6d896db3-eaa3-47d7-812b-4141f7966291_cadeira-rgb.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\70f626d4-7e1a-4637-aa1f-2ceedbf1b108_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\70f626d4-7e1a-4637-aa1f-2ceedbf1b108_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg",
+      "PackagePath": "staticwebassets\\imagens\\75eb8020-aeac-46eb-a929-a0de7349fb2b_ps5.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\7811b733-3f67-4a09-9aa8-afb7a6d74805_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\7811b733-3f67-4a09-9aa8-afb7a6d74805_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\7ac43db3-04b0-486a-a65b-80cdf8250b3a_pilhas-pannasonic.jpg",
+      "PackagePath": "staticwebassets\\imagens\\7ac43db3-04b0-486a-a65b-80cdf8250b3a_pilhas-pannasonic.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\7f5cb13e-f601-42b5-88cb-6ddd9a41ca07_Controle PS5.webp",
+      "PackagePath": "staticwebassets\\imagens\\7f5cb13e-f601-42b5-88cb-6ddd9a41ca07_Controle PS5.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\82aa023f-a86d-4a67-8ef8-b44c4e1d7384_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\9d5524d3-d3a5-490b-ba38-402ae9a5f04b_cadeira-gamer-azul.webp",
+      "PackagePath": "staticwebassets\\imagens\\9d5524d3-d3a5-490b-ba38-402ae9a5f04b_cadeira-gamer-azul.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\9e543532-afa7-46f1-a7bf-f93337caf293_luminaria-2.webp",
+      "PackagePath": "staticwebassets\\imagens\\9e543532-afa7-46f1-a7bf-f93337caf293_luminaria-2.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\a0c58405-e6ad-4755-82b6-9898d2578d43_Mouse.jpg",
+      "PackagePath": "staticwebassets\\imagens\\a0c58405-e6ad-4755-82b6-9898d2578d43_Mouse.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\affb5108-839c-490c-8824-eee01185255e_ram-8gb.jpg",
+      "PackagePath": "staticwebassets\\imagens\\affb5108-839c-490c-8824-eee01185255e_ram-8gb.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\b11d5e9f-94e0-4cfa-91f1-696bf4d4cdb7_gabinete-gamer.jpg",
+      "PackagePath": "staticwebassets\\imagens\\b11d5e9f-94e0-4cfa-91f1-696bf4d4cdb7_gabinete-gamer.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\b11f6d93-e925-45fd-abc0-13d290f20eee_cadeira-gamer.webp",
+      "PackagePath": "staticwebassets\\imagens\\b11f6d93-e925-45fd-abc0-13d290f20eee_cadeira-gamer.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\b5e7cde6-e75d-4458-881d-9ddd8a0fe84a_cadeira-rgb.jpg",
+      "PackagePath": "staticwebassets\\imagens\\b5e7cde6-e75d-4458-881d-9ddd8a0fe84a_cadeira-rgb.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\bf0e6b21-30d0-4b87-8ae0-bb38b06f2f27_teclado-gamer.jpg",
+      "PackagePath": "staticwebassets\\imagens\\bf0e6b21-30d0-4b87-8ae0-bb38b06f2f27_teclado-gamer.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\c31eb4d1-7117-4fe4-a1ba-1bc4bee619ed_cadeira-rgb.jpg",
+      "PackagePath": "staticwebassets\\imagens\\c31eb4d1-7117-4fe4-a1ba-1bc4bee619ed_cadeira-rgb.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\c3fc5913-21a7-4769-bb5d-344f913d3520_cadeira-gamer.webp",
+      "PackagePath": "staticwebassets\\imagens\\c3fc5913-21a7-4769-bb5d-344f913d3520_cadeira-gamer.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\c47814e8-e178-4a53-814d-df69aa368c15_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\c47814e8-e178-4a53-814d-df69aa368c15_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\cabd196d-08c0-48b1-a33b-0b0c928a69ed_Controle Xbox 360.jpg",
+      "PackagePath": "staticwebassets\\imagens\\cabd196d-08c0-48b1-a33b-0b0c928a69ed_Controle Xbox 360.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp",
+      "PackagePath": "staticwebassets\\imagens\\cd77d3c1-b418-4418-b9e5-d02c937c42ed_luminaria-2.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\d9d493b2-d55e-4e61-9ea1-4b26dfb91f2d_Luminaria.jpg",
+      "PackagePath": "staticwebassets\\imagens\\d9d493b2-d55e-4e61-9ea1-4b26dfb91f2d_Luminaria.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\dd078d31-5d86-4d5c-9899-4e4e15eb4964_cadeira-gamer.webp",
+      "PackagePath": "staticwebassets\\imagens\\dd078d31-5d86-4d5c-9899-4e4e15eb4964_cadeira-gamer.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\e0325254-053f-4346-8277-091d86c8bfa2_Mouse.jpg",
+      "PackagePath": "staticwebassets\\imagens\\e0325254-053f-4346-8277-091d86c8bfa2_Mouse.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg",
+      "PackagePath": "staticwebassets\\imagens\\eba124aa-e574-4fb1-ad62-2864d5203c86_Gabinete Corsair 760T branco.jpg"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\imagens\\eee2c479-0ec3-47cf-922c-63ccb0641571_xbox.webp",
+      "PackagePath": "staticwebassets\\imagens\\eee2c479-0ec3-47cf-922c-63ccb0641571_xbox.webp"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.mvc.props",
+      "PackagePath": "build\\mvc.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.mvc.props",
+      "PackagePath": "buildMultiTargeting\\mvc.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.mvc.props",
+      "PackagePath": "buildTransitive\\mvc.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.mvc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,71 @@
+version: "3"
+
+services:
+
+    rabbitmq:
+        image: rabbitmq:3-management
+        container_name: rabbit-simple-api
+        environment:
+            RABBITMQ_DEFAULT_USER: "guest"
+            RABBITMQ_DEFAULT_PASS: "guest"
+        ports:
+            - "5672:5672"
+            - "15672:15672"
+
+    sql-server:
+        image: cesarags/simples-api-sql-server:latest
+        container_name: simple-api-sql-server
+        build: 
+            context: ../sql
+            dockerfile: ./Dockerfile
+        environment:
+            SA_PASSWORD: "b39ff7d2-3bc2-4e9f-bb3b-0c371ce81aad"
+            ACCEPT_EULA: "Y"     
+        ports:
+            - "1433:1433" 
+
+    web-mvc:
+      image: cesarags/simples-api-mvc:latest
+      container_name: simple-api-mvc
+      restart: always  
+      build:
+          context: ../src
+          dockerfile: ./mvc/Dockerfile
+      ports:
+          - "5001:5001"
+      environment:  
+          - ASPNETCORE_ENVIRONMENT=Production 
+          - ASPNETCORE_URLS=http://*:5001  
+      depends_on:    
+          - api-simple 
+  
+
+    api-simple:             
+        image: cesarags/simple-api:latest
+        container_name: simple-api
+        restart: always  
+        build:
+            context: ../src
+            dockerfile: ./api/Dockerfile
+        environment:
+              - ASPNETCORE_ENVIRONMENT=Production 
+              - ASPNETCORE_URLS=http://*:7191  
+        ports:
+            - "7191:7191"
+        depends_on:    
+            - rabbitmq
+            - sql-server
+
+    # NGNIX
+    # simple-api-server:
+    #     image: cesarags/simple-api-server:latest
+    #     container_name: simple-api-server   
+    #     build: 
+    #         context: ./
+    #         dockerfile: ./nginx/Dockerfile 
+    #     restart: always 
+    #     ports:
+    #         - "8080:8080"
+    #         - "4443:4443"
+    #     depends_on:
+    #         - web-mvc

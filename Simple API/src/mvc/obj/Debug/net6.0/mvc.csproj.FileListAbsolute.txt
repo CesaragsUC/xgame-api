@@ -566,6 +566,7 @@ F:\Projetos ASP.NET\Video  Aulas\Simples API\Simple API\src\mvc\obj\Debug\net6.0
 F:\Projetos ASP.NET\Video  Aulas\Simples API\Simple API\src\mvc\obj\Debug\net6.0\ref\mvc.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\appsettings.Development.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\appsettings.json
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\appsettings.Production.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\mvc.staticwebassets.runtime.json
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\mvc.exe
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net6.0\mvc.deps.json

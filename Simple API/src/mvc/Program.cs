@@ -1,8 +1,12 @@
 using Infra;
+using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Hosting;
+using mvc.Configuration;
 using mvc.Data;
 using mvc.Services;
+using NuGet.Configuration;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -30,15 +34,33 @@ builder.Services.AddHttpClient<IProdutoServices, ProdutoServices>();
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
-// Leira do appsettings.json e faz bind na classe AppServicesSettings
+// Leia do appsettings.json e faz bind na classe AppServicesSettings
 builder.Services.Configure<AppServicesSettings>(builder.Configuration);
 
+//configuração de ambiente
+builder.Environment.ConfigureAppSettings();
+
+//somente teste parar ver as config, de ambiente
+var environment =  builder.Environment;
+
+//config do NGNIX
+builder.Services.Configure<ForwardedHeadersOptions>(options =>
+{
+    options.ForwardedHeaders =
+        ForwardedHeaders.XForwardedFor | ForwardedHeaders.XForwardedProto;
+});
+
+
 var app = builder.Build();
+
+//config do NGNIX precisa ser o primeiro de todos
+app.UseForwardedHeaders();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseMigrationsEndPoint();
+    Console.WriteLine("IsDevelopment");
 }
 else
 {
@@ -61,5 +83,6 @@ app.MapControllerRoute(
 app.MapRazorPages();
 
 app.Run();
+
 
 public partial class Program { }
