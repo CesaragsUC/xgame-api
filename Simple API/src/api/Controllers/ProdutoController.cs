@@ -1,4 +1,5 @@
-﻿using Application.API.Interface;
+﻿using Application.API.Config;
+using Application.API.Interface;
 using Application.API.Messages;
 using Application.API.Messages.Integracao;
 using Application.API.Model.DTO;
@@ -7,6 +8,7 @@ using Domain.Entidade;
 using Domain.Interface;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using pplication.API.MessageBus;
 using System.Drawing;
 
@@ -20,19 +22,23 @@ namespace Application.API.Controllers
         private readonly IProdutoService _produtoService;
         public readonly IMapper _mapper;
         private readonly IMessageBus _bus;
-
-
+        private readonly ICacheService _cache;
+        private readonly ILogger<ProdutoController> _logger;
         public ProdutoController(
             IProdutoRepository produtoRepository,
             IProdutoService produtoService,
             IMapper mapper,
             INotificador notificador,
-            IMessageBus bus) : base(notificador)
+            IMessageBus bus,
+            ICacheService cache,
+            ILogger<ProdutoController> logger) : base(notificador)
         {
             _produtoRepository = produtoRepository;
             _produtoService = produtoService;
             _mapper = mapper;
             _bus = bus;
+            _cache = cache;
+            _logger = logger;
         }
 
         [HttpGet]
@@ -41,8 +47,20 @@ namespace Application.API.Controllers
         {
             try
             {
+                var produtoCache = await _cache.GetAsync("produtos");
+                IEnumerable<ProdutoDTO> produtos;
+
+                if (!string.IsNullOrWhiteSpace(produtoCache))
+                {
+                    produtos = JsonConvert.DeserializeObject<IEnumerable<ProdutoDTO>>(produtoCache);
+                    _logger.LogWarning("Readed from cache");
+                    return CustomResponse(produtos);
+                }
+
                 var result = await _produtoRepository.ObterProdutos();
-                var produtos = _mapper.Map<IEnumerable<ProdutoDTO>>(result);
+                produtos = _mapper.Map<IEnumerable<ProdutoDTO>>(result);
+                await _cache.SetAsync("produtos",JsonConvert.SerializeObject(produtos));
+
                 return CustomResponse(produtos);
             }
             catch (Exception ex)
@@ -60,8 +78,19 @@ namespace Application.API.Controllers
 
             try
             {
+                var produto = new ProdutoDTO();
+                var produtoCache = await _cache.GetAsync(id.ToString());
+                if (!string.IsNullOrWhiteSpace(produtoCache))
+                {
+                    produto = JsonConvert.DeserializeObject<ProdutoDTO>(produtoCache);
+                    _logger.LogWarning("Readed from cache");
+                    return CustomResponse(produto);
+                }
+
                 var result = await _produtoRepository.ObterProdutoPorId(id);
-                var produto = _mapper.Map<ProdutoDTO>(result);
+                produto = _mapper.Map<ProdutoDTO>(result);
+
+                await _cache.SetAsync(produto.Id.ToString(), JsonConvert.SerializeObject(produto));
 
                 return CustomResponse(produto);
             }

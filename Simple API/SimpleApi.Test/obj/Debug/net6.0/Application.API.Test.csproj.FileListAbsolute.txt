@@ -478,3 +478,8 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\ob
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.genruntimeconfig.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\ref\Application.API.Test.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\StackExchange.Redis.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll

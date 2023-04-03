@@ -51,9 +51,14 @@ builder.Services.AddDefaultIdentity<IdentityUser>()
 
 builder.Services.AddMessageBusConfiguration(builder.Configuration);
 
-// JWT
+//config do Redis
+builder.Services.AddStackExchangeRedisCache(o => {
 
+    o.InstanceName = "instance";
+    o.Configuration = "localhost:6379";
+});
 
+// JWT Config
 
 var appSettingsSection = builder.Configuration.GetSection("AppSettings");
 builder.Services.Configure<AppSettings>(appSettingsSection);
@@ -93,6 +98,7 @@ builder.Services.AddScoped<ICategoriaService, CategoriaService>();
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
 builder.Services.AddScoped<IProdutoService, ProdutoService>();
 builder.Services.AddScoped<INotificador, Notificador>();
+builder.Services.AddScoped<ICacheService, CacheService>();
 
 //configuração de ambiente
 builder.Environment.ConfigureAppSettings();
