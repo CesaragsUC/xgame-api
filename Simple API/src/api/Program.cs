@@ -58,6 +58,7 @@ builder.Services.AddStackExchangeRedisCache(o => {
     o.Configuration = "localhost:6379";
 });
 
+
 // JWT Config
 
 var appSettingsSection = builder.Configuration.GetSection("AppSettings");

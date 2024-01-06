@@ -6,14 +6,15 @@ using Application.API.Model.DTO;
 using AutoMapper;
 using Domain.Entidade;
 using Domain.Interface;
-using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Distributed;
 using Newtonsoft.Json;
 using pplication.API.MessageBus;
-using System.Drawing;
 
 namespace Application.API.Controllers
 {
+    
     [Route("api/[controller]")]
     [ApiController]
     public class ProdutoController : MainController
@@ -59,6 +60,13 @@ namespace Application.API.Controllers
 
                 var result = await _produtoRepository.ObterProdutos();
                 produtos = _mapper.Map<IEnumerable<ProdutoDTO>>(result);
+
+                //var options = new DistributedCacheEntryOptions()
+                //.SetSlidingExpiration(TimeSpan.FromSeconds(20)) //define o tempo de inatividade = 20 segundos
+                //.SetAbsoluteExpiration(TimeSpan.FromMinutes(1)); //define o tempo de expiração = 1 minuto
+
+                //await _cache.SetAsync("produtos", produtos, options);
+
                 await _cache.SetAsync("produtos",JsonConvert.SerializeObject(produtos));
 
                 return CustomResponse(produtos);

@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Domain.Entidade;
 using Domain.Interface;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using mvc.Models;
@@ -8,6 +9,8 @@ using mvc.Services;
 
 namespace mvc.Controllers
 {
+
+    [Authorize]
     public class ProdutosController : BaseController
     {
         private readonly ICategoriaService _categoriaService;

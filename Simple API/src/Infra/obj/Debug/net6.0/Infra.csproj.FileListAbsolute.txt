@@ -32,3 +32,38 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Deb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.pdb
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\ref\Infra.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.deps.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Domain.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Domain.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\refint\Infra.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\ref\Infra.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.deps.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.runtimeconfig.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Infra.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Domain.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\bin\Debug\net6.0\Domain.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.sourcelink.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.csproj.CopyComplete
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\refint\Infra.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\Infra.genruntimeconfig.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Infra\obj\Debug\net6.0\ref\Infra.dll

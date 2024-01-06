@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {}
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,16 +23,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,8 +42,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -67,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

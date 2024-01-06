@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {}
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {}
   },
   "projects": {
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
         "projectName": "Domain.Test",
-        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
+        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -23,22 +23,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj"
+              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
+                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj"
               },
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -50,20 +49,20 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Bogus": {
               "target": "Package",
-              "version": "[28.0.3, )"
+              "version": "[35.3.0, )"
             },
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.AspNetCore.Hosting": {
               "target": "Package",
@@ -71,45 +70,47 @@
             },
             "Microsoft.AspNetCore.Mvc.Testing": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
-              "version": "[6.0.12, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Options": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.3.2, )"
+              "version": "[17.8.0, )"
             },
             "Moq": {
               "target": "Package",
-              "version": "[4.18.4, )"
+              "version": "[4.20.70, )"
             },
             "Moq.AutoMock": {
               "target": "Package",
-              "version": "[3.4.0, )"
+              "version": "[3.5.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.2, )"
+              "version": "[6.0.0, )"
             },
             "xunit": {
               "target": "Package",
-              "version": "[2.4.2, )"
+              "version": "[2.6.5, )"
             },
             "xunit.runner.visualstudio": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[2.4.5, )"
+              "version": "[2.5.6, )"
             }
           },
           "imports": [
@@ -128,18 +129,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
         "projectName": "simple-api",
-        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
+        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -151,22 +152,21 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               },
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj"
+              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
+                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj"
               }
             }
           }
@@ -178,40 +178,40 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
-              "version": "[12.0.0, )"
+              "version": "[12.0.1, )"
             },
             "EasyNetQ": {
               "target": "Package",
-              "version": "[6.3.1, )"
+              "version": "[7.8.0, )"
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.4.0, )"
+              "version": "[11.9.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[6.0.13, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.Identity.UI": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.AspNetCore.StaticFiles": {
               "target": "Package",
@@ -219,41 +219,45 @@
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
               "target": "Package",
-              "version": "[6.0.11, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.Caching.StackExchangeRedis": {
               "target": "Package",
-              "version": "[6.0.15, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[8.0.0, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[6.26.0, )"
+              "version": "[7.0.3, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
-              "version": "[1.15.1, )"
+              "version": "[1.19.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Polly": {
               "target": "Package",
-              "version": "[7.2.3, )"
+              "version": "[8.2.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[6.2.3, )"
+              "version": "[6.5.0, )"
             },
             "mediatr": {
               "target": "Package",
-              "version": "[8.0.1, )"
+              "version": "[12.2.0, )"
             }
           },
           "imports": [
@@ -275,18 +279,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -298,16 +302,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -318,8 +321,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "FluentValidation": {
               "target": "Package",
@@ -342,18 +345,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
+    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
+        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -365,19 +368,18 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "F:\\Projetos ASP.NET\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -389,8 +391,8 @@
         }
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -427,7 +429,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

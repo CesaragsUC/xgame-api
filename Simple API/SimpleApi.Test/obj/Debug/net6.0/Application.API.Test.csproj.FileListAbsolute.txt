@@ -483,3 +483,974 @@ F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bi
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\StackExchange.Redis.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
 F:\Projetos ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.Development.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.Production.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.staticwebassets.runtime.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\testhost.exe
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\testhost.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.deps.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.runtimeconfig.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.deps.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.runtimeconfig.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.exe
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\MvcTestingAppManifest.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.deps.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.runtimeconfig.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\mscorlib.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\netstandard.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Console.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Memory.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Web.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Windows.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\AutoMapper.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Bogus.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Castle.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\EasyNetQ.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\FluentValidation.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\MediatR.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Testing.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.TestHost.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Moq.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Moq.AutoMock.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Polly.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.assert.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.core.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.AssemblyReference.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.AssemblyInfoInputs.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.AssemblyInfo.cs
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.CoreCompileInputs.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.CopyComplete
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\refint\Application.API.Test.dll
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.pdb
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.genruntimeconfig.cache
+E:\Dev ASP.NET\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\ref\Application.API.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\CoverletSourceRootsMapping
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\testhost.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.deps.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.runtimeconfig.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.deps.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.runtimeconfig.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.Development.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\appsettings.Production.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.staticwebassets.runtime.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.exe
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\testhost.exe
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\MvcTestingAppManifest.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.AdapterUtilities.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.deps.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.runtimeconfig.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Application.API.Test.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\mscorlib.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\netstandard.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.AppContext.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Buffers.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Configuration.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Console.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Data.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Drawing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Memory.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Http.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Mail.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Ping.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Requests.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Security.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Numerics.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ObjectModel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Claims.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Principal.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Transactions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.ValueTuple.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Web.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Windows.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\refs\WindowsBase.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\AutoMapper.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Bogus.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Castle.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\EasyNetQ.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\FluentValidation.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\MediatR.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Testing.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.AspNetCore.TestHost.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Moq.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Moq.AutoMock.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\NuGet.Frameworks.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Pipelines.Sockets.Unofficial.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Polly.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\RabbitMQ.Client.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\StackExchange.Redis.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.IO.Pipelines.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.abstractions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.assert.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.core.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\xunit.execution.dotnet.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Core.Test.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\simple-api.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Domain.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Infra.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.AssemblyReference.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\MvcTestingAppManifest.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.AssemblyInfoInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.AssemblyInfo.cs
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.CoreCompileInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.sourcelink.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.csproj.CopyComplete
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\refint\Application.API.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\Application.API.Test.genruntimeconfig.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net6.0\ref\Application.API.Test.dll

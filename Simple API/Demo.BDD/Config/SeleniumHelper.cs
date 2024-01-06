@@ -123,7 +123,7 @@ namespace Demo.BDD.Test.Config
 
         private void SalvarScreenShot(Screenshot screenshot, string fileName)
         {
-            screenshot.SaveAsFile($"{Configuration.FolderPicture}{fileName}", ScreenshotImageFormat.Png);
+            screenshot.SaveAsFile($"{Configuration.FolderPicture}{fileName}");
         }
 
         private bool ElementoExistente(By by)

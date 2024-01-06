@@ -1,0 +1,13 @@
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\bin\Debug\net8.0\Domain.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\bin\Debug\net8.0\Domain.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\Domain.pdb
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\Domain\obj\Debug\net8.0\ref\Domain.dll

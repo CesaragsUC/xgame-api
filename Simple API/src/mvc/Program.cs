@@ -38,7 +38,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.Configure<AppServicesSettings>(builder.Configuration);
 
 //configuração de ambiente
-builder.Environment.ConfigureAppSettings();
+//builder.Environment.ConfigureAppSettings();
 
 //somente teste parar ver as config, de ambiente
 var environment =  builder.Environment;
