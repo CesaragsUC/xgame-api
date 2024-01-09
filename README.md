@@ -6,6 +6,8 @@ Comunicação entre uma aplicação front-end mvc e uma API desenvolvida em NetC
 - RabbitMQ
 - Docker
 - Retry com Polly
+- Cache com Redis
+- DI com Scrutor
 
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/25139027/204422453-b9398d3c-06a2-4e52-b01a-c83d225035e5.gif)
