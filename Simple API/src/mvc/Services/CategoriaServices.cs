@@ -7,7 +7,7 @@ namespace mvc.Services
 {
 
 
-    public interface ICategoriaService
+    public interface ICategoriaService : IGenericRepository
     {
         Task<ResponseResult> Adicionar(Categoria model);
         Task<ResponseResult> Atualizar(Categoria model);

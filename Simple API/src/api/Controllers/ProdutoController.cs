@@ -6,6 +6,7 @@ using Application.API.Model.DTO;
 using AutoMapper;
 using Domain.Entidade;
 using Domain.Interface;
+using Infra.Repository;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;

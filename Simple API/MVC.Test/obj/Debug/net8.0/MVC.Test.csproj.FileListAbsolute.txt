@@ -671,3 +671,4 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\MVC.Test.pdb
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\MVC.Test.genruntimeconfig.cache
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\ref\MVC.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\Scrutor.dll

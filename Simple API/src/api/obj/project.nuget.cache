@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tkJUV2kJUZ99lwiTSLgX7puYT/dOu1ez4Z9R5xgLMpFGlC9uORooPjnsEJZi1QcNMIIX4cAjjosxfMlrMU1qeA==",
+  "dgSpecHash": "em+ushFeqwBMH3RCR88T3MbhE4o5BI44H3EKddULlOMKBoqBqHMYmIwDZtjybGzxuyUdMWQCWB9Hes3tANO2Qw==",
   "success": true,
   "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
   "expectedPackageFiles": [
@@ -78,6 +78,7 @@
     "C:\\Users\\cesar\\.nuget\\packages\\polly\\8.2.1\\polly.8.2.1.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\polly.core\\8.2.1\\polly.core.8.2.1.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\cesar\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",

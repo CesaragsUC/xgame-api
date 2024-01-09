@@ -505,3 +505,4 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Deb
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net8.0\Application.API.Test.pdb
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net8.0\Application.API.Test.genruntimeconfig.cache
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\obj\Debug\net8.0\ref\Application.API.Test.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\SimpleApi.Test\bin\Debug\net8.0\Scrutor.dll

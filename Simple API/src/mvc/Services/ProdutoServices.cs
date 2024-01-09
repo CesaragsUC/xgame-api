@@ -8,7 +8,7 @@ using System.Collections.Generic;
 namespace mvc.Services
 {
 
-    public interface IProdutoServices
+    public interface IProdutoServices : IGenericRepository
     {
         Task<ProdutoModel> ObterPorId(Guid id);
         Task<IEnumerable<ProdutoModel>> ObterTodos();

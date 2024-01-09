@@ -1,4 +1,7 @@
+using Domain.Interface;
+using Domain.Notificacoes;
 using Infra;
+using Infra.Repository;
 using Microsoft.AspNetCore.HttpOverrides;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
@@ -7,6 +10,8 @@ using mvc.Configuration;
 using mvc.Data;
 using mvc.Services;
 using NuGet.Configuration;
+using Scrutor;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -26,10 +31,11 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
 
 
+
 //Dependency Injection DI
 builder.Services.AddHttpClient<ICategoriaService, CategoriaServices>();
 builder.Services.AddHttpClient<IProdutoServices, ProdutoServices>();
-//
+////
 
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());

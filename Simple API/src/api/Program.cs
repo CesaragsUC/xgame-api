@@ -13,6 +13,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
+using Scrutor;
+using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text;
 using System.Xml.Linq;
@@ -90,16 +92,55 @@ builder.Services.AddAuthentication(x =>
 // End JWT
 
 builder.Services.AddHttpContextAccessor();
-
 // configure DI for application services
 builder.Services.AddScoped<XGamesContext>();
-builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
-builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
-builder.Services.AddScoped<ICategoriaService, CategoriaService>();
-builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
-builder.Services.AddScoped<IProdutoService, ProdutoService>();
-builder.Services.AddScoped<INotificador, Notificador>();
-builder.Services.AddScoped<ICacheService, CacheService>();
+
+//DI padrao
+//builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
+//builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
+//builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
+//builder.Services.AddScoped<ICategoriaService, CategoriaService>();
+//builder.Services.AddScoped<IProdutoService, ProdutoService>();
+//builder.Services.AddScoped<INotificador, Notificador>();
+//builder.Services.AddScoped<ICacheService, CacheService>();
+
+
+//DI com Scrutor
+//crio um array de assemblies para fazer o scan
+Assembly[] assemblies = new[] {
+    typeof(ProdutoRepository).Assembly,
+    typeof(CategoriaService).Assembly,
+    typeof(Notificador).Assembly,
+    typeof(CacheService).Assembly };
+
+builder.Services.Scan(selector => selector
+    .FromAssemblies(assemblies)
+    .AddClasses(publicOnly: false) //se não colocar false, ele não pega as classes internas  
+    .UsingRegistrationStrategy(RegistrationStrategy.Skip)// Skip , para nao registrar caso o servico ja esteja registrado
+    .AsMatchingInterface() // Pega todas as classes que fazem match entre a classe e a interface": ex: ProdutoRepository e IProdutoRepository
+    .WithScopedLifetime());
+// End DI com Scrutor
+
+
+builder.Services.Scan(selector =>
+    selector
+        .FromCallingAssembly()
+        .AddClasses(
+            classSelector =>
+                classSelector.InNamespaces("Application.API.Interface")
+        )
+        .AsImplementedInterfaces()
+        .AddClasses(classSelector => classSelector.AssignableTo(typeof(IRepository<>)))
+        .UsingRegistrationStrategy(RegistrationStrategy.Skip)
+        .AsImplementedInterfaces()
+        .FromAssemblyOf<ICategoriaRepository>()
+        .AddClasses(classSelector =>
+            classSelector.AssignableTo<ICategoriaRepository>())
+        .AsMatchingInterface()
+        .WithScopedLifetime()
+);
+
+
 
 //configuração de ambiente
 builder.Environment.ConfigureAppSettings();
