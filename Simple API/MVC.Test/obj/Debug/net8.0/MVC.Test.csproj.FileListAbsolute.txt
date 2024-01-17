@@ -401,6 +401,7 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\NuGet.ProjectModel.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\NuGet.Protocol.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\Scrutor.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\System.CodeDom.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -671,4 +672,3 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\MVC.Test.pdb
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\MVC.Test.genruntimeconfig.cache
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\obj\Debug\net8.0\ref\MVC.Test.dll
-E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\MVC.Test\bin\Debug\net8.0\Scrutor.dll

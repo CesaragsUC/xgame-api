@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Application.API.Controllers
 {
-    [Route("api/[controller]")]
+    
     [ApiController]
     public class CategoriaController : MainController
     {

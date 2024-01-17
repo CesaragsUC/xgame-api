@@ -17,7 +17,6 @@ using System.Text;
 namespace Application.API.Controllers
 {
     [ApiController]
-    [Route("api/Identidade")]
     public class AuthController : MainController
     {
 

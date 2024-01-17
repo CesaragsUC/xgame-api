@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZxdSWGDiNvDgL08+Tsvdw8+44Zk7kNdlTxStH94WagckGllgD1oY4eQJaWd9D1TGfpqutkgNkGHH1v0qbUrv8A==",
+  "dgSpecHash": "H3AV8aCxKRSkdEzS4xMZGFOSIbuXAWr7dEOuibTa6cpNOJd9EwfBzXDFbDQheo8jODoOyFPaGLkNrIUt5ruYLA==",
   "success": true,
-  "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Demo.BDD\\Demo.BDD.Test.csproj",
+  "projectFilePath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Demo.BDD\\Demo.BDD.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\bogus\\35.3.0\\bogus.35.3.0.nupkg.sha512",

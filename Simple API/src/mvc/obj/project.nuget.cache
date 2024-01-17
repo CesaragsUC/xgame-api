@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFiNHd/f8QZ12tlCz07KiGfMqjRD1xtHKP7LdKrLuYPcjKHlJEnFfYSukSsOMXYIfoKewksvUk1NcwEALgBbmQ==",
+  "dgSpecHash": "Cb5jGpftqGLP2lkR/rm8I9i78UgrTDhansEzDAuq+pOYHpKfn0MWVuU3Oy2d3cW87N3EgRshuCLAazR2M0D8BA==",
   "success": true,
-  "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj",
+  "projectFilePath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

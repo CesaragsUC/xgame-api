@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rvWc8DC5GSeOznZqRhiAOJyIrvUW3ZatFu/PAdOwLcbHh3iTMVYcYfeljeqq11SuXqvyvC/WbR6HHaBUj13Gow==",
+  "dgSpecHash": "ihT2L1rB7FTk0K8VrJrjlE2XeboUc1wZ7TM9VbjZZ0J9cM6yS7hChkQWr0FdTPCWIZmLU0XPJEBJzu6BELGo0Q==",
   "success": true,
-  "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj",
+  "projectFilePath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\bogus\\35.3.0\\bogus.35.3.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",

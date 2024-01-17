@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {}
+    "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {}
   },
   "projects": {
-    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {
+    "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
         "projectName": "Domain.Test",
-        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
+        "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Domain.Test\\Domain.Test.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Domain.Test\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Domain.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
-                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj"
+              "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
+                "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\simple-api.csproj"
               },
-              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               }
             }
           }
@@ -133,14 +133,14 @@
         }
       }
     },
-    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
+    "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\simple-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
         "projectName": "simple-api",
-        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
+        "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\simple-api.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\api\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -162,11 +162,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               },
-              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
-                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj"
+              "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
+                "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj"
               }
             }
           }
@@ -181,6 +181,22 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AspNetCore.HealthChecks.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "AutoMapper": {
               "target": "Package",
               "version": "[12.0.1, )"
@@ -196,6 +212,10 @@
             "FluentValidation": {
               "target": "Package",
               "version": "[11.9.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.22.0, )"
             },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
@@ -287,14 +307,14 @@
         }
       }
     },
-    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+    "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+        "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -353,14 +373,14 @@
         }
       }
     },
-    "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
+    "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
+        "projectUniqueName": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
+        "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-        "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\obj\\",
+        "outputPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -382,8 +402,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
-                "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
+              "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj": {
+                "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj"
               }
             }
           }

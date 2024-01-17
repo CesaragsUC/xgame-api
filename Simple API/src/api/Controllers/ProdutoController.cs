@@ -15,8 +15,7 @@ using pplication.API.MessageBus;
 
 namespace Application.API.Controllers
 {
-    
-    [Route("api/[controller]")]
+
     [ApiController]
     public class ProdutoController : MainController
     {

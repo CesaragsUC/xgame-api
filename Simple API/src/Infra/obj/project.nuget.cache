@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y5Y/BByva8Ptn5BjPWvk8+unSYXLIs6IaOHT2N4jyCylc22UMw4KeFF4pY2UJOQVs8j4ywU8rg2Ij1+tpHHatw==",
+  "dgSpecHash": "0gDMDW0arMONfTpbCxEtXqG7ec/QniIaZOvgHsTB0lVMcRshcWVgnc6bLCKbncNyPXYqFn8UZEaggZeodhMqcg==",
   "success": true,
-  "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
+  "projectFilePath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Infra\\Infra.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
     "C:\\Users\\cesar\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

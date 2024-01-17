@@ -14,7 +14,8 @@ namespace Application.API.Test.Integration.Categoria
 {
 
     [CollectionDefinition(nameof(IntegrationApiFixture))]
-    public class CategoriaIntegrationTest : BaseResponseService, IClassFixture<IntegrationApiTestsFixture<Program>>
+    public class CategoriaIntegrationTest : BaseResponseService,
+        IClassFixture<IntegrationApiTestsFixture<Program>>
     {
         private readonly IntegrationApiTestsFixture<Program> _fixture;
         private readonly AutoMocker _mocker;

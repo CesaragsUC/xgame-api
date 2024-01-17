@@ -5,15 +5,20 @@ using Application.API.Model;
 using Application.API.Services;
 using Domain.Interface;
 using Domain.Notificacoes;
+using HealthChecks.UI.Client;
+using Humanizer.Configuration;
 using Infra;
 using Infra.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using Scrutor;
+using Services.HealthCheck;
 using System.Reflection;
 using System.Runtime.CompilerServices;
 using System.Text;
@@ -54,7 +59,8 @@ builder.Services.AddDefaultIdentity<IdentityUser>()
 builder.Services.AddMessageBusConfiguration(builder.Configuration);
 
 //config do Redis
-builder.Services.AddStackExchangeRedisCache(o => {
+builder.Services.AddStackExchangeRedisCache(o =>
+{
 
     o.InstanceName = "instance";
     o.Configuration = "localhost:6379";
@@ -95,16 +101,6 @@ builder.Services.AddHttpContextAccessor();
 // configure DI for application services
 builder.Services.AddScoped<XGamesContext>();
 
-//DI padrao
-//builder.Services.AddScoped<IProdutoRepository, ProdutoRepository>();
-//builder.Services.AddScoped<ICategoriaRepository, CategoriaRepository>();
-//builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
-//builder.Services.AddScoped<ICategoriaService, CategoriaService>();
-//builder.Services.AddScoped<IProdutoService, ProdutoService>();
-//builder.Services.AddScoped<INotificador, Notificador>();
-//builder.Services.AddScoped<ICacheService, CacheService>();
-
-
 //DI com Scrutor
 //crio um array de assemblies para fazer o scan
 Assembly[] assemblies = new[] {
@@ -140,7 +136,16 @@ builder.Services.Scan(selector =>
         .WithScopedLifetime()
 );
 
+//configuração do health check
+builder.Services
+.AddHealthChecks()
+    .AddCheck<CustomHealthCheck>(nameof(CustomHealthCheck),null,new string[] { "tag01","tag02" })
+    .AddCheck<DbHealthCheck>("Db health", null, new string[] { "Database", "db" })
+    .AddCheck<ApiHealthCheck>("Apis health", null, new string[] { "Apis", "api" });
 
+builder.Services.AddHealthChecksUI().AddInMemoryStorage();
+
+builder.Services.AddHttpClient();
 
 //configuração de ambiente
 builder.Environment.ConfigureAppSettings();
@@ -148,6 +153,12 @@ builder.Environment.ConfigureAppSettings();
 
 //somente teste parar ver as config, de ambiente
 var environment = builder.Environment;
+
+
+// The following line enables Application Insights telemetry collection.
+builder.Services.AddApplicationInsightsTelemetry();
+
+
 
 var app = builder.Build();
 
@@ -157,6 +168,8 @@ if (app.Environment.IsDevelopment())
     app.UseDeveloperExceptionPage();
 }
 
+
+
 app.UseSwagger();
 app.UseSwaggerUI();
 app.UseHttpsRedirection();
@@ -165,6 +178,20 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
+
+
+app.UseHealthChecks("/healthcheck", new HealthCheckOptions
+{
+    Predicate = p => true,
+    ResponseWriter = UIResponseWriter.WriteHealthCheckUIResponse
+});
+
+app.UseHealthChecksUI(options => {
+        options.UIPath = "/dashboard"; 
+        options.AddCustomStylesheet("heathStyle.css");
+    }
+);
+
 
 app.Run();
 

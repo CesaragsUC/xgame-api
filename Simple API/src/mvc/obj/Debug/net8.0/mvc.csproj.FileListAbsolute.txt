@@ -371,6 +371,7 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\NuGet.ProjectModel.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\NuGet.Protocol.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\Scrutor.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\System.CodeDom.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\System.Composition.AttributedModel.dll
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\System.Composition.Convention.dll
@@ -566,4 +567,3 @@ E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\obj\Debug\net8
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\obj\Debug\net8.0\mvc.pdb
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\obj\Debug\net8.0\mvc.genruntimeconfig.cache
 E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\obj\Debug\net8.0\ref\mvc.dll
-E:\DevProjetos\Repositorio Tutoriais\xgame-api\Simple API\src\mvc\bin\Debug\net8.0\Scrutor.dll

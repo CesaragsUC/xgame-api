@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2024-01-10T19:22:47.5996869Z"
+    }
+  },
+  "parameters": {
+    "appInsights1.resourceGroupName": {
+      "Name": "appInsights1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "az204-demo-insight"
+    },
+    "appInsights1.subscriptionId": {
+      "Name": "appInsights1.subscriptionId",
+      "Type": "subscription",
+      "Value": "506c3e7b-2ab5-46b2-9bd5-3829edd7f54f"
+    }
+  }
+}

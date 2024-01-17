@@ -3,3 +3,8 @@
 ################################################################################
 
 /Simple API/.vs
+/Simple API/src/api/appsettings.json
+/Simple API/src/mvc/appsettings.json
+/Simple API/src/api/simple-api.csproj
+/Simple API/src/api/appsettings.Development.json
+/Simple API/src/api/appsettings.Production.json

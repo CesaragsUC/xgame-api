@@ -15358,11 +15358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\MVC.Test\\MVC.Test.csproj",
+      "projectUniqueName": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\MVC.Test\\MVC.Test.csproj",
       "projectName": "MVC.Test",
-      "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\MVC.Test\\MVC.Test.csproj",
+      "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\MVC.Test\\MVC.Test.csproj",
       "packagesPath": "C:\\Users\\cesar\\.nuget\\packages\\",
-      "outputPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\MVC.Test\\obj\\",
+      "outputPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\MVC.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -15384,11 +15384,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj": {
-              "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj"
+            "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj": {
+              "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\Core.Test\\Core.Test.csproj"
             },
-            "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj": {
-              "projectPath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj"
+            "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj": {
+              "projectPath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\mvc\\mvc.csproj"
             }
           }
         }

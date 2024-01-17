@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Gmop2Vn/HGSPyjkRZMtu96xWGcNMUAIvQI0QF/WykAv8okavieiUzHSwvKimqnk+15/s1ng6jZUjzM2obN6B0A==",
+  "dgSpecHash": "xWRbxp7vRZ9pAxTzTCd6mKd4NA2FGCSgDHKTvTWnmmcvvUu/5q++/ZO9qs4o9wLtf0G7Ho6H9aYWV6XSohoksg==",
   "success": true,
-  "projectFilePath": "E:\\DevProjetos\\Repositorio Tutoriais\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
+  "projectFilePath": "E:\\DevProjetos\\Dotnet6\\WebApi\\xgame-api\\Simple API\\src\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cesar\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
   ],
