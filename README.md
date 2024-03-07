@@ -1,5 +1,5 @@
-# Simple API netcore 6
-Comunicação entre uma aplicação front-end mvc e uma API desenvolvida em NetCore 6
+# Simple API netcore 8
+Comunicação entre uma aplicação front-end mvc e uma API desenvolvida em NetCore 8
 
 ## O que foi abordado nesse projeto:
 - JWT
